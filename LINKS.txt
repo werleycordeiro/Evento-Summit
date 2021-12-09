@@ -1,0 +1,89 @@
+#-------
+#EVENTO
+#-------
+
+SUMMIT
+https://app.powerbi.com/view?r=eyJrIjoiNGRhODhlNDgtNjAzNy00ZWNmLTgxNzItMTkwMjk0ZTgzZjZiIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9
+
+ABERTURA DE EMPRESAS
+https://app.powerbi.com/view?r=eyJrIjoiMTU0OWRmNTUtNjBlZi00ODUyLWJkMWYtMTk1YTMxYWViMjE4IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9
+
+SALDO DE EMPRESAS
+https://app.powerbi.com/view?r=eyJrIjoiMjM1N2EzNGMtNzk0ZC00ODVmLTk2NTQtNzAyZDM3N2Y2MWNhIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9
+
+COMÉRCIO EXTERIOR
+https://app.powerbi.com/view?r=eyJrIjoiMmM1ZjAzNTktNjRmZC00MDA3LWE3OTktOTY2OThkY2M3NGRiIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9
+
+ASSISTÊNCIA SOCIAL
+https://app.powerbi.com/view?r=eyJrIjoiMjQyNGNiZWItMzRmNC00MmNkLWJjMGMtZmUwOTFjZTRlZWIxIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9
+
+TRANSFERÊNCIAS VOLUNTÁRIAS
+https://app.powerbi.com/view?r=eyJrIjoiOGE2NzRhMDEtMDc5ZC00ZTRlLWI0NzAtYzUxZDBjOGVmNGRmIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9
+
+----------------------------------------------------------------------------------------------
+
+#--------------
+# OUTROS TEMAS
+#--------------
+
+#-----
+# G90
+#-----
+
+
+ATIVIDADE ECONÔMICA
+https://app.powerbi.com/view?r=eyJrIjoiN2FmOTM0ZjItMzAyMS00NDFkLTkyNzgtMWVlMDQxZDFlMTE0IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection943c8a2428e8e195158b
+
+FINANÇAS PÚBLICAS
+https://app.powerbi.com/view?r=eyJrIjoiOTNiNGJmZDktZjUxZC00NGI2LTk2ZGMtMGQ0YTE0N2U0M2RjIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection9f47d967626a8d282b98
+
+#-----
+# G180
+#-----
+
+
+SAÚDE NAS EMPRESAS
+https://app.powerbi.com/view?r=eyJrIjoiZjU5YWVmMTItYjE1OC00NjZlLTg5MGYtMDIxM2Q5NjQ1MTE5IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection5f932ffaa5f21e438b53
+
+MERCADO DE TRABALHO
+https://app.powerbi.com/view?r=eyJrIjoiNzg1ZmNhOTMtN2U2NS00OTk3LWE2ZTMtYTYzMmJiMTZjMTIwIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection48550dcba643b2229eda
+
+DEFESA CIVIL
+https://app.powerbi.com/view?r=eyJrIjoiNWVlNGExZGUtZGE1Yy00NTI1LTg2Y2ItNzk5ZTVjMGZiYWRkIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection2275dbd01ca67303c223
+
+MEIO AMBIENTE
+https://app.powerbi.com/view?r=eyJrIjoiNjY4OGU4ZjAtMjgzYS00OGRiLWIwNGQtYTI1OWQ0ZjY1MTNmIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+TURISMO
+https://app.powerbi.com/view?r=eyJrIjoiNTAyYmNiOTctNGJhZi00MTE0LTg4YjktZTQ3ZTI1NGE0MGE0IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+SETORES ECONÔMICOS EM FOCO
+https://app.powerbi.com/view?r=eyJrIjoiM2Y4OTljMDUtNzRiMS00ZGNlLWI2YjEtYjFiNDg2NTIyM2JkIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection06de7192dd7273882028
+
+SEGURANÇA PÚBLICA
+https://app.powerbi.com/view?r=eyJrIjoiMmYyNzkyZTMtOTFmMy00OWJmLWIzNzEtYTI1NDZjOWU1Mzg2IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+ADMINISTRAÇÃO GERAL
+https://app.powerbi.com/view?r=eyJrIjoiNzc4Mjc1ZmEtYjY0MS00MDYyLWE3MTUtZTYzNDIwMDUwNTRlIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+SAÚDE SINASC
+https://app.powerbi.com/view?r=eyJrIjoiNTIwMTVmMmMtN2VhNy00NzE4LTg1MjAtYmI3OTE0NGJjNzdiIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+SAÚDE SIA
+https://app.powerbi.com/view?r=eyJrIjoiZTMwODZmZDQtOGVkMS00OTgwLTk2MTEtN2ZjMjI1OTQxYzE4IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+SAÚDE SIM
+https://app.powerbi.com/view?r=eyJrIjoiNjcwYzYyOTItYTRhYS00NDQxLWJjNjQtMzAyMDgyZjJkNmU5IiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection9f507fd9d73c8d023d03
+
+SAÚDE ESTRUTURA
+https://app.powerbi.com/view?r=eyJrIjoiOGRhZWEzMGEtMjc2NC00YTNkLTkyMGYtN2RjMGM3ZWQ2NWEwIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection
+
+SAÚDE GERAL
+https://app.powerbi.com/view?r=eyJrIjoiOWVkYjgzMjMtZmQ2MS00NjhhLWExMmQtZDM1NDNlYjU1YWFkIiwidCI6IjVhMmJlMWU3LTM4MGQtNDJkMC05MTllLTY1NDRmYzMzNmNmOCJ9&pageName=ReportSection0bc2ea4eae42f4c58a56
+
+#------
+# SITE 
+#------
+
+https://lindaufsc.wixsite.com/ambientefepese2
+
